@@ -42,6 +42,7 @@ const App = () => {
       <div>
         <center>
           <h2>Created by Somanath Goudar with Alan AI</h2>
+          <h3>Say Go Back to go to Home Screen</h3>
         </center>
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
